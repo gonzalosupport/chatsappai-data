@@ -182,7 +182,7 @@ export function Footer({
                 </a>
               ))}
             </div>
-            <p>Made in France 🇫🇷</p>
+            <p>Made in Argentina 🇦🇷</p>
           </div>
           <div className="grid grid-cols-1 gap-8 mt-16 xl:col-span-2 xl:mt-0">
             <div

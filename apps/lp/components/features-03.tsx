@@ -434,7 +434,7 @@ export default function Features03() {
                 </h3>
               </div>
               <p className="text-sm text-zinc-500">
-                Founded in France, we respect your privacy. Your data is
+                Founded in Argentina, we respect your privacy. Your data is
                 encrypted in transit and at rest on secure servers.
               </p>
             </div>

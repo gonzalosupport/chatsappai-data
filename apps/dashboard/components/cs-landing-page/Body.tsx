@@ -292,7 +292,7 @@ function Body({ hero2 }: Props) {
         mediaUrl="/landing-page/eu-flag.png"
         items={[
           {
-            name: 'Founded in France',
+            name: 'Founded in Argentina',
             description: `All servers and databases are located in Europe.`,
             icon: CircleStackIcon,
           },
