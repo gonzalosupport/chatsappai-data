@@ -135,7 +135,7 @@ function Body({ hero2 }: Props) {
         label="Tailored to your business"
         title={'Trustworthy AI trained on your data'}
         // description={
-        //   "Chaindesk's AI is trained on your data to provide the best answers to your customers."
+        //   "ChatsappAI's AI is trained on your data to provide the best answers to your customers."
         // }
         items={[
           {

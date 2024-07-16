@@ -294,7 +294,7 @@ export function Footer({
         </div>
         <div className="pt-8 mt-16 border-t border-white/10 sm:mt-20 lg:mt-24">
           <p className="text-xs leading-5 text-gray-400">
-            Copyright &copy; {new Date().getFullYear()} Chaindesk - All rights
+            Copyright &copy; {new Date().getFullYear()} ChatsappAI- All rights
             reserved.
           </p>
         </div>
